@@ -1,6 +1,7 @@
 /*
 	Author	: Michael Janea (www.michaeljanea.com)
-	Version	: 1.2
+	Author  : Christoph M. Becker (3-magi.net)
+	Version	: 1.3
 */
 
 CKEDITOR.plugins.add('fontawesome', {
